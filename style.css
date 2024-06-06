@@ -40,7 +40,7 @@ color: var(--branco-principal);
 .container {
 height: 100vh;
 display:grid;
-             display:grid;
+display:grid;
     grid-template-columns: 50% 50%;
     display: block;
     text-decoration: none;
@@ -79,9 +79,9 @@ margin-bottom: 0.1em;
 .descricao__texto {
 color: var(--cinza-secundario);
 }
-&lt;/div&gt;
-&lt;img src=”img/Só o Combo+.png” alt=”Tela
-    da Alura Plus e da Alura língua» class=”secundario__imagem”&gt;
+/div&gt;
+img src=”img/Só o Combo+.png” alt=”Tela
+    da Alura Plus e da Alura língua» class=”secundario__imagem”
 .secundario__botao {
 display: inline-block;
 margin-top: 1em;
